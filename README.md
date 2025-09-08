@@ -1,22 +1,20 @@
 # Hi 👋 I'm Anith Suga Dev T  
 
 🎓 Final Year B.E. in Computer Science (VTU)  
-💻 Interested in Software Development, Networking (CCNA), and Cybersecurity  
-🌱 Currently learning: Blockchain & Cloud Computing  
+💻 Interested in Software Development, Networking (CCNA)  
 
 ---
 
 ## 🔧 Skills  
 - **Languages:** Python, Java  
 - **Web:** HTML, CSS  
-- **Tools:** Git, GitHub, VS Code  
-- **Domains:** Networking, Cybersecurity, Software Development  
+- **Tools:** GitHub, VS Code  
+- **Domains:** Networking, Software Development  
 
 ---
 
 ## 🚀 Featured Projects  
-- 🔐 Payload Submission API using Hyperledger Sawtooth (Blockchain)  
-- 🛡️ Cyber Intelligence Visualization (Cybersecurity)  
+- 🔐 SMART SURVEILLANCE: OBJECT DETECTION AND TRACKING (IOT)
 - 📊 Customer Segmentation using Machine Learning  
 
 ---
