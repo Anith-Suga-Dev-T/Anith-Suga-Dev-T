@@ -1,7 +1,7 @@
 # Hi 👋 I'm Anith Suga Dev T  
 
 🎓 Final Year B.E. in Computer Science (VTU)  
-💻 Interested in Software Development, Networking (CCNA)  
+💻 Interested in Software Development, Networking, and DevOps
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 🚀 Featured Projects  
 - 🔐 SMART SURVEILLANCE: OBJECT DETECTION AND TRACKING (IOT)
-- 📊 Customer Segmentation using Machine Learning  
+- 🏠 AI-Powered Smart Environment Simulator
 
 ---
 
