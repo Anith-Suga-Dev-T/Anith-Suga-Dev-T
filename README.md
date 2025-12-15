@@ -6,10 +6,10 @@
 ---
 
 ## 🔧 Skills  
-- **Languages:** Python, Java  
+- **Languages:** Python, Java, C  
 - **Web:** HTML, CSS  
 - **Tools:** GitHub, VS Code  
-- **Domains:** Networking, Software Development  
+- **Domains:** Networking, DevOps, Software Development  
 
 ---
 
